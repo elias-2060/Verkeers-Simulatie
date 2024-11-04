@@ -1,2 +1,2 @@
 # Verkeers Simulatie
-A project for the course "Project software engineering"
+A project for the course "Project Software Engineering"
